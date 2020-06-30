@@ -1,4 +1,4 @@
-# SpringReactiveAcademy
+# Examen Final de Spring Reactivo MITOCODE
 Repo de Proyecto Final Backend Academia en Spring Reactivo -- Examen Final MitoCode
 
 # Uso
