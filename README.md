@@ -1,10 +1,10 @@
 # SpringReactiveAcademy
 Repo de Proyecto Final Backend Academia en Spring Reactivo -- Examen Final MitoCode
 
-#Uso
+# Uso
 Para probar los servicios se deja una colección en Postman
 
-#Contenido
+# Contenido
 1. CRUD Estudiantes
    - Listar estudiantes ordenados de forma descendente por edad
 2. CRUD Cursos
